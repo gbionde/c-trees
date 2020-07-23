@@ -71,7 +71,7 @@ listaGen* pop(pilha **p){
 	return aux;
 }
 
-/********* AUXILIARES: 1) FILA ********/
+/********* AUXILIARES: 2) FILA ********/
 
 struct fila{
 	listaGen *info;
