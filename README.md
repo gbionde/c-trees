@@ -22,7 +22,3 @@ This repository contains the following data structures, developed using C langua
 The comments were written in Portuguese - Brazil.<br/>
 Base data structures algorithms were developed while in classroom.
 <br/><br/>
-
-# Contact - Contato
-Found an error? Message me! <br/>
-Encontrou algum erro? Me contate! <br/>
