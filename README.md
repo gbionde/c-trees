@@ -5,7 +5,7 @@
 **PT 1 {Stacks, Queues}**: https://github.com/GFBionde/data-structures-pt1
 <br/>**PT 2 {Linked Lists}**: https://github.com/GFBionde/data-structures-pt2
 
-<br/><br/>
+<br/>
 # EN-US About
 This repository contains the following data structures, developed using C language and dynamic memory allocation/pointers:
 <br/>
