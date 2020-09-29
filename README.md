@@ -1,7 +1,7 @@
 # Data Structures - Pt. 3: Generalized List + Trees (BTS, AVL)
 <br/><br/>
 
-# Links to previous parts
+# Related Links
 **PT 1 {Stacks, Queues}**: https://github.com/GFBionde/data-structures-pt1
 <br/>**PT 2 {Linked Lists}**: https://github.com/GFBionde/data-structures-pt2
 <br/>
