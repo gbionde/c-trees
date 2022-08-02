@@ -27,5 +27,3 @@ Este repositório contém as seguintes estruturas de dados desenvolvidas na Ling
 Os comentários estão escritos em PT-BR.<br/>
 Os algoritmos base para manipulação das estruturas foram desenvolvidos em sala de aula.
 <br/><br/>
-
-## DOWNLOAD AND MODIFY AS YOU WISH!
